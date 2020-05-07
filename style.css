@@ -7,8 +7,15 @@ a {
   }
   
   a:hover {
-    color: lime;
+    color: rgb(255, 0, 149);
     text-decoration: none;
   }
-
+  a:visited {
+    color: lime;
+  }
+  
+  a:active {
+    color: red;
+  }
+  
  
